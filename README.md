@@ -1,4 +1,10 @@
 # ollama-chatbot-3.1b
+For a flask base app of this same model you can check Urooj Projet which has detail work on flask base onboarding ap using the same approach 
+```bash
+
+https://github.com/urooj-akmal/Onboarding-Chatbot
+
+```
 
 ## Complete Step-by-Step Guide: Onboarding Chatbot with Ollama
 
