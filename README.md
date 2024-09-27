@@ -93,8 +93,8 @@ pip install -r requirements.txt
 - Gather the PDF documents that you want the chatbot to be able to answer questions from.
 - Ensure these PDFs are in a well-organized format within a specific directory (e.g., `data`).
 
-- https://github.com/abm984/ollama-chatbot-3.1b/blob/main/Capturefd.PNG?raw=true
-- ![image](https://github.com/user-attachments/assets/63522bb3-29d9-4f5b-ada1-c98a5f212b10)
+![image](https://github.com/user-attachments/assets/1f50f8b7-a2ba-47de-82a7-7267a2b35463)
+
 
 
 **7. Populate the Database:**
